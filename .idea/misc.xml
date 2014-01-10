@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../cucumber-jvm-experiment" value="1386181280250" />
+        <entry key="$USER_HOME$/Stash/common-testing" value="1386182877676" />
+        <entry key="$USER_HOME$/Stash/common-tools" value="1386183481474" />
+        <entry key="$USER_HOME$/Stash/core-services" value="1386185553313" />
+        <entry key="$USER_HOME$/Stash/reporting-dto" value="1386184367725" />
+      </map>
+    </option>
+  </component>
+  <component name="IdProvider" IDEtalkID="93BBF69CAF94C0F77A8D5A994B2C094B" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
